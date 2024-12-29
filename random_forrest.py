@@ -19,4 +19,4 @@ y_pred = model.predict(X_test)
 
 # Evaluate the model
 print("Accuracy:", accuracy_score(y_test, y_pred))
-print("\nClassification Report:\n", classification_report(y_test, target_names=iris.target_names))
+print("\nClassification Report:\n", classification_report(y_test, y_pred, target_names=iris.target_names))
