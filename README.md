@@ -83,6 +83,7 @@ It’s recommended to use a virtual environment:
   python -m venv venv
   source venv/bin/activate  # On Windows: venv\Scripts\activate
   pip install -r requirements.txt
+  ```
 
 3.  **Run the Models**
 Navigate to the desired script or notebook and execute it using your preferred IDE or Jupyter.
