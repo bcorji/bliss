@@ -78,7 +78,6 @@ To explore and run the models:
    cd bliss
 
 2.	**Set Up the Environment**:
-
 It’s recommended to use a virtual environment:
     ```bash
     python -m venv venv
@@ -87,7 +86,6 @@ It’s recommended to use a virtual environment:
     ```
 
 4.  **Run the Models**:
-   
 Navigate to the desired script or notebook and execute it using your preferred IDE or Jupyter.
 
 ---
