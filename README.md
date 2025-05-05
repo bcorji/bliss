@@ -79,11 +79,11 @@ To explore and run the models:
 
 2.	**Set Up the Environment**:
 It’s recommended to use a virtual environment:
-  ```bash
-  python -m venv venv
-  source venv/bin/activate  # On Windows: venv\Scripts\activate
-  pip install -r requirements.txt
-  ```
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    pip install -r requirements.txt
+    ```
 
 3.  **Run the Models**:
 Navigate to the desired script or notebook and execute it using your preferred IDE or Jupyter.
