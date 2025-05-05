@@ -85,12 +85,12 @@ It’s recommended to use a virtual environment:
   pip install -r requirements.txt
   ```
 
-3.  **Run the Models**
+3.  **Run the Models**:
 Navigate to the desired script or notebook and execute it using your preferred IDE or Jupyter.
 
 ---
 
-##📊 Notebooks
+## 📊 Notebooks
 The repository includes Jupyter notebooks for interactive exploration:
 
 - `AI Models.ipynb: A comprehensive notebook demonstrating various AI models.`
@@ -99,7 +99,7 @@ The repository includes Jupyter notebooks for interactive exploration:
 
 ---
 
-##📝 Notes and Documentation
+## 📝 Notes and Documentation
 For detailed explanations and theoretical backgrounds, refer to the markdown files:
 
 - `DecisionTree.md: Insights into decision tree algorithms.`
@@ -110,13 +110,13 @@ For detailed explanations and theoretical backgrounds, refer to the markdown fil
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 This is a personal repository intended for experimentation and learning.
 However, suggestions and improvements are welcome.
 Feel free to fork the repository and submit pull requests.
 ---
 
-##📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
 
 For more information and updates, visit the (repository)[https://github.com/bcorji/bliss].
