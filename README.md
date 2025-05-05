@@ -120,4 +120,4 @@ Feel free to fork the repository and submit pull requests.
 ## 📄 License
 This project is open-source and available under the MIT License.
 
-For more information and updates, visit the (repository)[https://github.com/bcorji/bliss].
+For more information and updates, visit the [repository](https://github.com/bcorji/bliss).
