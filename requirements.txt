@@ -1,0 +1,42 @@
+# Core Scientific Libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Deep Learning Frameworks
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+
+# NLP and Transformers
+transformers
+datasets
+sentencepiece
+nltk
+spacy
+
+# Reinforcement Learning
+gym
+
+# Visualization & Notebook
+jupyter
+seaborn
+
+# Image & Audio Processing
+opencv-python
+Pillow
+
+# Optional: For GPT-3, GPT-4, DALL·E, CLIP usage
+openai
+
+# For ViT and CLIP integration
+timm
+
+# For progress tracking and logs
+tqdm
+
+# Avoid version conflicts:
+# You may optionally pin versions based on tested compatibility.
